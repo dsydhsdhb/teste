@@ -1,2 +1,2 @@
 # teste
-ARQUIVO DE TESTE.
+so teste
