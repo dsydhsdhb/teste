@@ -1,2 +1,1 @@
-# teste
-ARQUIVO DE TESTE.
+salva comentário explicativo&quot;).
